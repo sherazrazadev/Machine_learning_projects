@@ -1,8 +1,9 @@
 # Hi ,i am Sheraz Raza
 
 These are the machine learning projects
-
+all projects datasets available on kaggle.
 1.Car Price Prediction With Graphic User Interface.
+2.Heart Disease Prediction Using different models with different Accuracy.
 
 
 
